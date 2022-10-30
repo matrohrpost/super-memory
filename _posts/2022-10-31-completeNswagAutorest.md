@@ -101,5 +101,6 @@ public void ConfigureServices(IServiceCollection services)
       c.SchemaFilter<RequireValueTypePropertiesSchemaFilter>();
     }
 }
-
 ~~~
+
+
